@@ -1,0 +1,61 @@
+h1 {
+  color: red;
+  font-size: 40px;
+}
+.gold {
+  color: gold;
+  font-size: 50px;
+}
+.silver {
+  color: silver;
+  font-size: 50px;
+}
+.bronze {
+  color: #cd7f32;
+  font-size: 50px;
+}
+.background {
+  background-image: url("img/back.jpeg");
+  background-position: center;
+}
+a {
+  color: white;
+  font-size: 22px;
+  text-decoration: none;
+}
+h2 {
+  color: rgb(151, 158, 135);
+}
+h2 {
+  color: rgb(255, 0, 0);
+  font-style: 20px;
+}
+.akula_img {
+  width: 1000px;
+}
+.bloks {
+  width: 620px;
+
+  margin: 20px;
+  display: inline-block;
+  overflow: hidden;
+}
+p {
+  font-size: 30px;
+  color: rgba(30, 166, 190, 0.897);
+}
+.bloks2 {
+  width: 600px;
+}
+.image {
+  width: 50%;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.text {
+  width: 450px;
+  margin-left: 80px;
+}
